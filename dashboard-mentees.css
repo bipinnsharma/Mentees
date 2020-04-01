@@ -11,7 +11,7 @@
 
 @media (min-width: 1281px) {
   
-  .setcardpd{
+  #mentee-dashboard-container-outter .setcardpd{
    background-color: var(--paived-color);
   }
   
@@ -24,8 +24,8 @@
 
 @media (min-width: 1025px) and (max-width: 1280px) {
   
-  .setcardpd{
-    background-color: var(--text-dark);
+  #mentee-dashboard-container-outter .setcardpd{
+   background-color: var(--paived-color);
   }
   
 }
